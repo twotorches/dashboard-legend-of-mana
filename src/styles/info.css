@@ -1,0 +1,7 @@
+.info {
+    grid-column-start: 2;
+    grid-column-end: 1 span;
+    grid-row-start: 2;
+    grid-row-end: 1 span;
+    background-color: blue;
+  }

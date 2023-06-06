@@ -1,0 +1,19 @@
+/* .app {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff; 
+  box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+} */
+
+.app {
+  display: grid;
+  grid-template-columns: 20% 1fr;
+  grid-template-rows: 100px 1fr 100px;
+  background-color: orange;
+  height: 100vw;
+  width: 100vw;
+}

@@ -1,0 +1,7 @@
+.menu {
+    grid-column-start: 1;
+    grid-column-end: 1 span;
+    grid-row-start: 1;
+    grid-row-end: 2 span;
+    background-color: aqua;
+  }
