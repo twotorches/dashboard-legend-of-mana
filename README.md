@@ -5,7 +5,7 @@
 
   <p>This project is a clone of the game menu from the popular video game "Legend of Mana." It is implemented using React.js, a JavaScript library for building user interfaces.</p>
 
-  <img src="" alt="Legend of Mana Game Menu Clone">
+  <img src="/src/images/lom-logo" alt="Legend of Mana Game Menu Clone">
 
   <h2>Features</h2>
   <ul>
