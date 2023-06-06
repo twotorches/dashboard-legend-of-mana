@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-  <title>Legend of Mana Game Menu Clone</title>
-</head>
-
 <body>
   <h1>Legend of Mana Game Menu Clone</h1>
 
