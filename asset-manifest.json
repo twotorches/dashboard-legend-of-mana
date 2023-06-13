@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/dashboard-legend-of-mana/static/css/main.4091982f.css",
-    "main.js": "/dashboard-legend-of-mana/static/js/main.05467f97.js",
-    "static/js/787.d42007c4.chunk.js": "/dashboard-legend-of-mana/static/js/787.d42007c4.chunk.js",
+    "main.css": "/dashboard-legend-of-mana/static/css/main.6da2cefe.css",
+    "main.js": "/dashboard-legend-of-mana/static/js/main.1896bee0.js",
     "index.html": "/dashboard-legend-of-mana/index.html",
-    "main.4091982f.css.map": "/dashboard-legend-of-mana/static/css/main.4091982f.css.map",
-    "main.05467f97.js.map": "/dashboard-legend-of-mana/static/js/main.05467f97.js.map",
-    "787.d42007c4.chunk.js.map": "/dashboard-legend-of-mana/static/js/787.d42007c4.chunk.js.map"
+    "main.6da2cefe.css.map": "/dashboard-legend-of-mana/static/css/main.6da2cefe.css.map",
+    "main.1896bee0.js.map": "/dashboard-legend-of-mana/static/js/main.1896bee0.js.map"
   },
   "entrypoints": [
-    "static/css/main.4091982f.css",
-    "static/js/main.05467f97.js"
+    "static/css/main.6da2cefe.css",
+    "static/js/main.1896bee0.js"
   ]
 }
