@@ -7,7 +7,7 @@ import { useState } from 'react';
 
 function App() {
 const [character,setCharacter] = useState({
-  name:'Osito', species:'teedie', stats:{power:1, skill:3, defense:3, 4:3, 5:4, 6:4, 7:3, 8:3, 9:5}, synchro:'Effect Plus – Paralysis', description:'Your attacks gain a paralyzing effect.'})
+  name:'Osito', species:'teedie', level:1, hp:30, stats:{power:1, skill:3, defense:3, magic:3, hitPoints:4, spirit:4, charm:3, luck:3, offense:5}, synchro:'Effect Plus – Paralysis', description:'Your attacks gain a paralyzing effect.'})
   
   console.log(character)
 
