@@ -4,4 +4,10 @@
     grid-row-start: 1;
     grid-row-end: 2 span;
     background-color: aqua;
+    max-width: 192px;
+    max-height: 832px;
+  }
+
+  .menu-list{
+    list-style: none;
   }
