@@ -8,6 +8,7 @@ function Menu(){
             <ul className='menu-list'> 
                 <li>
                 <img src={require(`../images/lom-player-menu.png`)} alt="Botón"/>
+                
                 </li>
             </ul>
         </div>
