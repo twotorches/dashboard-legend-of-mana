@@ -1,13 +1,17 @@
 .menu {
-    grid-column-start: 1;
-    grid-column-end: 1 span;
-    grid-row-start: 1;
-    grid-row-end: 2 span;
-    background-color: aqua;
-    max-width: 192px;
-    max-height: 832px;
-  }
+  margin-top: 32px;
+  margin-left: 32px;
+  align-self: center;
+  grid-column-start: 1;
+  grid-column-end: 1 span;
+  grid-row-start: 1;
+  grid-row-end: 2 span;
+  background-color: aqua;
+  width: 192px;
+  height: 832px;
+}
 
-  .menu-list{
-    list-style: none;
-  }
+.menu-list {
+  list-style: none;
+}
+
